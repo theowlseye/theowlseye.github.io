@@ -1,5 +1,5 @@
--
+I have two project I am working on
 
-The current project is here this is the [States Game Project](https://theowlseye.github.io/StateTest/)
+The first project is the [States Game Project](https://theowlseye.github.io/StateTest/)
 
-Then there is the Venn [Diagram Project](https://theowlseye.github.io/VennDiagram/)
+Then there is the Venn Diagram [Project](https://theowlseye.github.io/VennDiagram/)

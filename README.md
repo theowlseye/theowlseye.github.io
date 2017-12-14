@@ -9,5 +9,5 @@ The first project is the [States Game Project](https://theowlseye.github.io/Stat
 
 ## Venn Diagram
 
-Then there is the Venn Diagram [Project](https://theowlseye.github.io/VennDiagram/)
+Then there is the Venn Diagram [Project](https://theowlseye.github.io/VennDiagramClone2/)
 * This project works! It creates an mathmatically precise venn diagram when given two sets and the resulting over lap 

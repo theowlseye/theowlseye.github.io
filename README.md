@@ -17,6 +17,6 @@ Then there is the Venn Diagram [Project](https://theowlseye.github.io/VennDiagra
 The Hexagon project is my first project using Cloud9 in AWS(Amazon Web Service) which is a real IDE.  
 No more writing in notepad.  Here it is [Hexagons](https://theowlseye.github.io/BeatsTheHexOutofMe/)
 
-*This project brings in the D3 library
-*I am trying hard to use the git system of pushing changes onto github
-*I really enjoy using the D3 library but I'm not using it to it's fullest potention.
+* This project brings in the D3 library
+* I am trying hard to use the git system of pushing changes onto github
+* I really enjoy using the D3 library but I'm not using it to it's fullest potention.

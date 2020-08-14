@@ -23,3 +23,9 @@ No more writing in notepad.  Here it is [Hexagons](https://theowlseye.github.io/
 * Ok I got really excited about D3 and then I discovered tranisitions and transforms and started doing more with animations than data and D3 stands for data driven documents so clearly my program was going into a different direction than what the D3 library is for.
 * Now I am bringing in the SGAP library which is a library for animations and it is AMAZING! honestly all both of these libraries are amazing when did javascript become so amazing?
 * I also added a Git client on my IPAD called "Working copy"  now I can code on my desktop and on my IPAD and pretend I am a two person team
+
+##Fighter DB Project
+
+The Fighter Database is to keep track of the fighters for 3soteric 
+
+* I will need to read from a postgres database

@@ -29,3 +29,4 @@ No more writing in notepad.  Here it is [Hexagons](https://theowlseye.github.io/
 The Fighter Database is to keep track of the fighters for 3soteric 
 
 * I will need to read from a postgres database
+* Here it is [Fighters](https://theowlseye.github.io/Fighter_db/)

@@ -24,7 +24,7 @@ No more writing in notepad.  Here it is [Hexagons](https://theowlseye.github.io/
 * Now I am bringing in the SGAP library which is a library for animations and it is AMAZING! honestly all both of these libraries are amazing when did javascript become so amazing?
 * I also added a Git client on my IPAD called "Working copy"  now I can code on my desktop and on my IPAD and pretend I am a two person team
 
-##Fighter DB Project
+## Fighter DB Project
 
 The Fighter Database is to keep track of the fighters for 3soteric 
 

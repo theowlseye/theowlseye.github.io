@@ -34,5 +34,5 @@ The Fighter Database is to keep track of the fighters for 3soteric
 ## SOAP Test
 
 * The SAOP Test is to get data from the government
-* Here it is [Soap](https://theowlseye.github.io/Soap_test/)
+* Here it is [Soap](https://theowlseye.github.io/SOAP_test/)
 
